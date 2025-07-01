@@ -1,0 +1,4 @@
+#!/bin/bash
+SD=$PWD # Source Directory
+
+python ${SD}/cgcnn_2021/predict.py ${SD}/model_best.pth.tar ../train_data/ | tee predict
