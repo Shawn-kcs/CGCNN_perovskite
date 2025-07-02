@@ -6,3 +6,10 @@ We generated a custom training dataset consisting of 3,652 perovskite structures
 
 Prediction on Perovskite Combinations 🔮
 Using the best-performing model from our training, we predicted the properties for an extensive dataset of 149,952 perovskite structures, which encompasses all possible element combinations.
+
+Installation and Usage 🔧
+This project is based on the original Crystal Graph Convolutional Neural Networks (CGCNN) implementation by Tian Xie.
+
+For detailed instructions on installation and usage, please refer to the original repository linked below.
+
+Original Repository: txie-93/cgcnn
